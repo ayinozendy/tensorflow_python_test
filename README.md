@@ -50,3 +50,5 @@ max         1661.6    500.0
 Final RMSE (on training data): 167.45
 Code End!
 ```
+
+![alt text](sample_output.png "Sample Output Graph")
