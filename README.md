@@ -12,7 +12,7 @@ Running:
 * Go to root directory where you `cloned` this project
   * Like so: `$ cd ~/MyProjects/tensorflow_python_test`
 * Run: `$ pip3.6 install -r requirements` (only once)
-* Run: `$ python3 main.py`
+* Run: `$ python3 src/test1\ room\ feature/main.py`
 * Sit back and wait for results
 
 ### Sample Output
